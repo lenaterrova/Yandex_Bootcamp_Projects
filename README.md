@@ -16,4 +16,4 @@ Highlights and Results: conducted customer behavior research for an e-ticket pla
 
 #4. 💡 **A/B Testing**
 
-Highlights and Results: Ran A/B testing to maximize conversion rate based on e-commerce customer experience, controlled and validated test protocols and results.
+Highlights and Results: ran A/B testing to maximize conversion rate based on e-commerce customer experience, controlled and validated test protocols and results.
