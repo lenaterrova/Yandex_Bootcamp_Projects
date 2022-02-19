@@ -1,4 +1,4 @@
-# praktikum_projects
+# Churn Prediction and Cluster Analysis
 
 ### Task
 

@@ -1,4 +1,4 @@
-# praktikum_projects
+# Mobile Game App Monetization
 
 ### Task
 
